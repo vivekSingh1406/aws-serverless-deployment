@@ -1,5 +1,4 @@
-## SDM System 
-
+### Smart Document Management System
 
 ```text
                                  User
@@ -44,7 +43,7 @@
 
 ---
 
-# Overall Request Flow
+### Project Structure Flow
 
 ```text
 User
@@ -76,7 +75,7 @@ User
 ```
 ---
 
-# AWS Service Responsibilities
+## AWS Service Responsibilities
 
 | AWS Service              | Responsibility                                                                                                       |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
