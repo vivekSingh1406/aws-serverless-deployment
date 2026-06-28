@@ -75,7 +75,7 @@ User
 ```
 ---
 
-## AWS Service Responsibilities
+### AWS Service Responsibilities
 
 | AWS Service              | Responsibility                                                                                                       |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
